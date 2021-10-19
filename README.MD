@@ -6,6 +6,6 @@
 > Networking Components are the first to get deployed following Auto Scaling Group(Servers), IAM Security Roles and Load Balancer
 
 ## To deploy this Just run:
-'''sh
+```sh
 > ./create.sh my-webapp my_infra.yaml my_prams.json
-'''
+```
